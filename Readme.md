@@ -31,3 +31,8 @@ https://tldp.org/HOWTO/Bash-Prompt-HOWTO/index.html
 ## Agradecimentos
 
 * Aos prorietários dos respectivos sites
+
+## Screenshot
+![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20Cmder.jpg)
+![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20GitBash.jpg)
+![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20VScode.jpg)
