@@ -34,13 +34,13 @@ https://tldp.org/HOWTO/Bash-Prompt-HOWTO/index.html
 
 ## Screenshot
 
-### No Cmder
+No Cmder
 ![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20Cmder.jpg)
 
-### No GitBash do Windows
+No GitBash do Windows
 ![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20GitBash.jpg)
 
-### No Terminal do VScode
+No Terminal do VScode
 ![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20VScode.jpg)
 
 <!-- Status -->
