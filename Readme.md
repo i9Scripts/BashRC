@@ -42,3 +42,9 @@ https://tldp.org/HOWTO/Bash-Prompt-HOWTO/index.html
 
 ### No Terminal do VScode
 ![](https://github.com/i9Scripts/BashRC/blob/master/Console%20do%20VScode.jpg)
+
+<!-- Status -->
+
+<h4 align="center"> 
+	🚧  BashRC 🚀 Aceito Sugestões...  🚧
+</h4> 
