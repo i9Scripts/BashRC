@@ -98,8 +98,9 @@ function be_get_branch {
 }
 
 ## Add branch to PS1 
-export GIT_PS1_SHOWDIRTYSTATE=1
-export PS1="$R┌─[$G\$be_get_branch${PS1}$G\t\n$R└────╼$W>"
+#export GIT_PS1_SHOWDIRTYSTATE=1
+#export PS1="$R┌─[$G\$be_get_branch${PS1}$G\t\n$R└────╼$W>"
+export PS1="$R┌─[$G\u @ \W$(__git_ps1 " (%s)")$R] \n$R└──(⌐•⌣•)>$W"
 
 function dirname() {
   local dir="${1%${1##*/}}"
