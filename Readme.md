@@ -9,7 +9,9 @@ Eu testei muitas possibilidades de PS1, com o propósito de deixar o prompt mais
 ### GitBash
 
 No meu computador com Windows 8.1 instalado o Git e GitBash, há muitas limitações na internet para essa configuração, então juntei algumas informações e muitos testes, veja abaixo os sites que me ajudaram a concluir.
-Segue agora no novo Commit um arquivo "git.prompt.sh" que usei no Linux, os devidos créditos está no arquivo.
+Refatorei e reformulei o prompt, segue agora no novo Commit um arquivo ".get_branch.bash" Funciona no windows
+
+No Linux, funciona muito melhor o zsh.
 
 Este é um:
 
