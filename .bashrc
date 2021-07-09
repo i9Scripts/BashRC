@@ -15,6 +15,8 @@ shopt -s histappend
 HISTSIZE=1000
 HISTFILESIZE=2000
 source ~/.get_branch.bash
+source ~/.git-prompt.sh
+source ~/.git-completion.bash
 #===========================================
 # Váriavies com as Cores
 #===========================================
