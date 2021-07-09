@@ -14,7 +14,7 @@ shopt -s histappend
 # Definições do comprimento e tamnho do historico.
 HISTSIZE=1000
 HISTFILESIZE=2000
- 
+source ~/.git-prompt.sh
 #===========================================
 # Váriavies com as Cores
 #===========================================
@@ -102,6 +102,7 @@ function be_get_branch {
 #export PS1="$R┌─[$G\$be_get_branch${PS1}$G\t\n$R└────╼$W>"
 export PS1="$R┌─[$G\u @ \W$(__git_ps1 " (%s)")$R] \n$R└──(⌐•⌣•)>$W"
 
+#export PS1="$R┌─[$G$be_get_branch${PS1}$G\n$R└──(⌐•⌣•)>$W"
 function dirname() {
   local dir="${1%${1##*/}}"
   "${dir:=./}" != "/" && dir="${dir%?}"
